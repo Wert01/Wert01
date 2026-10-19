@@ -54,6 +54,10 @@ Moscow · open to relocation, remote / hybrid
 `Python` `customtkinter`
 Оценка надёжности пароля: 6 критериев, проверка по списку из 10 000 самых частых паролей, поиск повторов, шкала уровня и графический интерфейс.
 
+### 🌦 [Telegram Weather & Outfit Bot](https://github.com/Wert01/tg_weatherbot56)
+`Python` `python-telegram-bot` `httpx` `Open-Meteo`
+Бот показывает погоду по городу или геопозиции и подсказывает, что надеть.
+
 ### 🧠 [EmotionAnalyzer](https://github.com/Wert01/EmotionAnalyzer)
 `Python` `NLTK` `TextBlob` `spaCy` `Tkinter`
 Десктопное приложение для анализа тональности английских текстов.
